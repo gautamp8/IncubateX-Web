@@ -1,0 +1,15 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/bin/nodejs /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.6
+[debug] Platform:     linux
+[debug] Node Version: v4.2.6
+[debug] Time:         Sun Aug 07 2016 07:52:55 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/brainbreaker/website/friendly-pix.com
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5001
